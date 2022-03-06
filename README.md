@@ -79,9 +79,10 @@ There is four main components of this project
 I am using here a cutom made PCB using PCB for your project is very much important.
 you will get good result, neat and clean wiring and professional look for your project.
 I designe this two layer PCB and ordered it from [JLCPCB](https://jlcpcb.com/IAT)
-I always prefer [JLCPCB](https://jlcpcb.com/IAT) because there PCB prices are very cheap
-currently thay have Special offer: $2 for 1-4 Layer PCBs, free SMT assembly monthly
-and If you register yourself today on [JLCPCB](https://jlcpcb.com/IAT) you will get $18 coupons exclusively 
+[JLCPCB](https://jlcpcb.com/IAT) offers Free PCB design software, cheap PCB prototype, fast&low cost SMT service saving your electronic products costs
+I always prefer [JLCPCB](https://jlcpcb.com/IAT) because prices are as low as $2 for 1-4 Layer PCBs.
+and If you register yourself today on [JLCPCB](https://jlcpcb.com/IAT) you will get wellcome coupons worth of 27$ exclusively 
+now get your PCB fully assembled and save our time and money by using SMT Assembly service of [JLCPCB](https://jlcpcb.com/IAT)
 So what are you waiting for just visit  [JLCPCB](https://jlcpcb.com/IAT)
 
 

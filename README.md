@@ -82,8 +82,8 @@ I designe this two layer PCB and ordered it from [JLCPCB](https://jlcpcb.com/IAT
 [JLCPCB](https://jlcpcb.com/IAT) offers Free PCB design software, cheap PCB prototype, fast&low cost SMT service saving your electronic products costs
 I always prefer [JLCPCB](https://jlcpcb.com/IAT) because prices are as low as $2 for 1-4 Layer PCBs.
 and If you register yourself today on [JLCPCB](https://jlcpcb.com/IAT) you will get wellcome coupons worth of 27$ exclusively 
-now get your PCB fully assembled and save our time and money by using SMT Assembly service of [JLCPCB](https://jlcpcb.com/IAT)
-So what are you waiting for just visit  [JLCPCB](https://jlcpcb.com/IAT)
+Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled ready for the project
+Foe more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
 
 
 

@@ -83,7 +83,8 @@ I designe this two layer PCB and ordered it from [JLCPCB](https://jlcpcb.com/IAT
 I always prefer [JLCPCB](https://jlcpcb.com/IAT) because prices are as low as $2 for 1-4 Layer PCBs.
 and If you register yourself today on [JLCPCB](https://jlcpcb.com/IAT) you will get wellcome coupons worth of 27$ exclusively 
 Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled ready for the project
-Foe more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
+
+For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
 
 
 
